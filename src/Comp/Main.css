@@ -1,0 +1,18 @@
+.btn-add{
+    font-size: 200px;
+    width: 300px;
+    height: 300px;
+    border: solid 1px;
+    border-radius: 100%;
+    background-color: rgb(167, 227, 227);
+    transition-duration: 0.5s;
+}
+
+.btn-add:hover{
+    cursor: pointer;
+    width: 250px;
+    height: 250px;
+    transition-duration: 0.5s;
+
+}
+
